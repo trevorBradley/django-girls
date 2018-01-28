@@ -1,0 +1,623 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"entry",
+				"entry_size"
+			],
+			[
+				"submiss",
+				"submission_id"
+			],
+			[
+				"my",
+				"my_style"
+			],
+			[
+				"x_la",
+				"x_label_rotation"
+			],
+			[
+				"star",
+				"stargazers_count"
+			],
+			[
+				"countr",
+				"country_name"
+			],
+			[
+				"sit",
+				"sitka_data"
+			],
+			[
+				"freq",
+				"frequencies"
+			],
+			[
+				"frequ",
+				"frequency"
+			],
+			[
+				"messa",
+				"message_list"
+			],
+			[
+				"formatt",
+				"formatted_name"
+			],
+			[
+				"the",
+				"the_quantity"
+			],
+			[
+				"sec",
+				"second_number"
+			],
+			[
+				"first",
+				"first_number"
+			],
+			[
+				"file",
+				"file_object"
+			],
+			[
+				"new",
+				"new_message"
+			],
+			[
+				"Electric",
+				"ElectricCar"
+			],
+			[
+				"admin",
+				"admin_0_privileges"
+			],
+			[
+				"Pri",
+				"Privileges"
+			],
+			[
+				"pr",
+				"privilege"
+			],
+			[
+				"privi",
+				"privileges"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"rest",
+				"restaurant_name"
+			],
+			[
+				"res",
+				"restaurant_name"
+			],
+			[
+				"battery",
+				"battery_size"
+			],
+			[
+				"batt",
+				"battery_size"
+			],
+			[
+				"incre",
+				"increment_login_attempts"
+			],
+			[
+				"incremen",
+				"increment_login_attempts"
+			],
+			[
+				"login",
+				"login_attempts"
+			],
+			[
+				"increme",
+				"increment_number_served"
+			],
+			[
+				"number",
+				"number_served"
+			],
+			[
+				"n",
+				"number_served"
+			],
+			[
+				"odometer",
+				"odometer_reading"
+			],
+			[
+				"greet",
+				"greet_user"
+			],
+			[
+				"des",
+				"describe_user"
+			],
+			[
+				"Rest",
+				"Restaurant"
+			],
+			[
+				"open",
+				"open_restaurant"
+			],
+			[
+				"de",
+				"describe_restaurant"
+			],
+			[
+				"roll",
+				"roll_over"
+			],
+			[
+				"magi",
+				"magician_names"
+			],
+			[
+				"comple",
+				"completed_model"
+			],
+			[
+				"completed",
+				"completed_models"
+			],
+			[
+				"albu",
+				"album_number"
+			],
+			[
+				"album",
+				"album"
+			],
+			[
+				"track",
+				"track_quantity"
+			],
+			[
+				"al",
+				"album"
+			],
+			[
+				"artist",
+				"artist_name"
+			],
+			[
+				"city_c",
+				"city_country_formatted"
+			],
+			[
+				"city",
+				"city_country"
+			],
+			[
+				"full",
+				"full_name"
+			],
+			[
+				"favo",
+				"favorite_book"
+			],
+			[
+				"dream",
+				"dream_spots"
+			],
+			[
+				"drea",
+				"dream_spots"
+			],
+			[
+				"sand",
+				"sandwich_orders"
+			],
+			[
+				"finish",
+				"finished_sandwiches"
+			],
+			[
+				"polling",
+				"polling_active"
+			],
+			[
+				"conf",
+				"confirmed_users"
+			],
+			[
+				"confir",
+				"confirmed_user"
+			],
+			[
+				"favor",
+				"favorite_places"
+			],
+			[
+				"pers",
+				"person_3"
+			],
+			[
+				"per",
+				"person_1"
+			],
+			[
+				"alien",
+				"alien_2"
+			],
+			[
+				"alien_",
+				"alien_1"
+			],
+			[
+				"parti",
+				"participant"
+			],
+			[
+				"par",
+				"participant"
+			],
+			[
+				"fav",
+				"favorite_languages"
+			],
+			[
+				"if",
+				"if_statement"
+			],
+			[
+				"favori",
+				"favorite_languages"
+			],
+			[
+				"x_",
+				"x_position"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					""
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"All Syntaxes"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Performance"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Regex Compatibility"
+				]
+			],
+			[
+				"Packages/Default/Syntax Tests.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "lint",
+		"selected_items":
+		[
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pydoc",
+				"SublimeREPL: Python - PDB current file"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 334.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tbradley/Dropbox/Learning/django_girls"
+	],
+	"file_history":
+	[
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_3_django/wagtail/mysite/blog/templates/blog/blog_page.html",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_3_django/wagtail/mysite/blog/models.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_3_django/wagtail/mysite/home/models.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_3_django/django_tut/mysite/mysite/urls.py",
+		"/Users/tbradley/Downloads/checkio.py",
+		"/Users/tbradley/Downloads/google_regex_for_dashboard.txt",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_3_django/learning_log/learning_logs/forms.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_3_django/learning_log/learning_logs/urls.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_3_django/learning_log/learning_logs/views.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_3_django/learning_log/learning_logs/templates/learning_logs/edit_entry.html",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_3_django/learning_log/learning_logs/templates/learning_logs/new_entry.html",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_3_django/learning_log/learning_logs/templates/learning_logs/new_topic.html",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_3_django/learning_log/learning_logs/templates/learning_logs/topics.html",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_3_django/learning_log/learning_logs/templates/learning_logs/topic.html",
+		"/Users/tbradley/Downloads/google_mql_sql_stages_regex.txt",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_3_django/learning_log/learning_logs/templates/learning_logs/base.html",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_3_django/learning_log/learning_logs/templates/learning_logs/index.html",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_3_django/pizzeria/pizzeria/urls.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_3_django/pizzeria/pizzas/models.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_3_django/pizzeria/pizzas/views.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_3_django/pizzeria/pizzas/templates/pizzas/index.html",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_3_django/pizzeria/pizzas/urls.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_3_django/pizzeria/pizzeria/settings.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_3_django/pizzeria/pizzas/admin.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_3_django/learning_log/db.sqlite3",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/11_testing/test_exercise_11-3.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_2_data/python_repos.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_2_data/country_codes.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_2_data/countries.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_2_data/na_populations.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_2_data/americas.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_2_data/population_data.json",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_2_data/world_population.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_2_data/highs_lows.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_2_data/exercises/15_8_three_dice.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_2_data/die.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_2_data/die_visual.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_2_data/exercises/15_7_two_D8s.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_2_data/exercises/15_9_multiplication.py",
+		"/Users/tbradley/Downloads/test2.py",
+		"/Users/tbradley/Downloads/test.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_2_data/mpl_squares.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_2_data/scatter_squares.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_2_data/exercises/15_1_cubes.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_2_data/exercises/15_2_colored_cubes.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_2_data/random_walk.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_2_data/rw_visual.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_2_data/exercises/15_3_molecular_motion.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/p_2_data/15_1_cubes.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/alien_invasion/alien_invasion.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/alien_invasion/Exercises/12_1_and_2_exercise.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/alien_invasion/Exercises/ship.py",
+		"/Users/tbradley/Downloads/challenge16.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/alien_invasion/settings.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/alien_invasion/ship.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/alien_invasion/game_functions.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/alien_invasion/.gitignore",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/git_practice/alien_invasion.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/git_practice/hello_world.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/git_practice/.gitignore",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/11_testing/name_function.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/11_testing/names.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/11_testing/test_name_function.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/11_testing/exercise_11-1.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/11_testing/test_cities.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/11_testing/survey.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/11_testing/language_survey.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/11_testing/test_survey.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/11_testing/exercise_11_3.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/11_testing/exercise_11-3.py",
+		"/name_function.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/10_files_and_exceptions/json_files/numbers.json",
+		"/division.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/10_files_and_exceptions/text_files/learning_python.txt",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/10_files_and_exceptions/pi_digits.txt",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/10_files_and_exceptions/file_reader.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/10_files_and_exceptions/pi_string.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/10_files_and_exceptions/1_file_exercises.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/10_files_and_exceptions/write_message.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/10_files_and_exceptions/2_file_exercises.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/10_files_and_exceptions/10_4_guest_book.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/10_files_and_exceptions/10_5_programming_poll.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/10_files_and_exceptions/learning_python.txt",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/9_classes/restaurant.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/9_classes/dog.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/9_classes/simple_class_exercises.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/4_working_with_lists/for_loop_exercises.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/7_user_input_and_while_loops/counting.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/7_user_input_and_while_loops/parrot.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/7_user_input_and_while_loops/cities.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/7_user_input_and_while_loops/greeter.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/7_user_input_and_while_loops/rollercoaster.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/7_user_input_and_while_loops/even_or_odd.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/7_user_input_and_while_loops/input_exercises.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/7_user_input_and_while_loops/while_exercises.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/7_user_input_and_while_loops/confirmed_users.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/7_user_input_and_while_loops/pets.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/7_user_input_and_while_loops/mountain_poll.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/7_user_input_and_while_loops/while_loops_dictionaries_exercises.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/7_user_input_and_while_loops/input_and_while_exercises.py",
+		"/Users/tbradley/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/tbradley/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/6_dictionaries/user.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/6_dictionaries/alien.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/6_dictionaries/pizza.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/6_dictionaries/many_users.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/6_dictionaries/favorite_languages.py",
+		"/Users/tbradley/Dropbox/Learning/python_crash_course/6_dictionaries/dictionaries_exercises.py",
+		"/Users/tbradley/Library/Application Support/Sublime Text 3/Packages/User/Python3.sublime-build",
+		"/Users/tbradley/Library/Application Support/Sublime Text 3/Packages/User/untitled.sublime-build"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 223.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Python3.sublime-build",
+	"project": "django_girls.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
